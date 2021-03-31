@@ -6,6 +6,8 @@
 
 module.exports = {
   siteName: 'Locations',
+  titleTemplate: '',
+  icon: './src/icon.png',
   siteUrl: 'https://carsonbird.github.io',
   pathPrefix: '/locations',
   plugins: []
